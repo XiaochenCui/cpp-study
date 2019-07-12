@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cpp_study"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/xiaochen/project/cpp-study/cpp-prime"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/xiaochen/project/cpp-study/cpp-prime"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c2-ex2-34">
+				<Option output="/Users/xiaochen/project/cpp-study/cpp-prime/bin/c2-ex2-34" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiaochen/project/cpp-study/cpp-prime/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 c2-ex2-34"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c2-ex2-34/fast">
+				<Option output="/Users/xiaochen/project/cpp-study/cpp-prime/bin/c2-ex2-34" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiaochen/project/cpp-study/cpp-prime/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 c2-ex2-34/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c2-ex2-20">
+				<Option output="/Users/xiaochen/project/cpp-study/cpp-prime/bin/c2-ex2-20" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiaochen/project/cpp-study/cpp-prime/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 c2-ex2-20"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c2-ex2-20/fast">
+				<Option output="/Users/xiaochen/project/cpp-study/cpp-prime/bin/c2-ex2-20" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiaochen/project/cpp-study/cpp-prime/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 c2-ex2-20/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c2-const">
+				<Option output="/Users/xiaochen/project/cpp-study/cpp-prime/bin/c2-const" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiaochen/project/cpp-study/cpp-prime/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 c2-const"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c2-const/fast">
+				<Option output="/Users/xiaochen/project/cpp-study/cpp-prime/bin/c2-const" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiaochen/project/cpp-study/cpp-prime/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 c2-const/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c2-ex2-25">
+				<Option output="/Users/xiaochen/project/cpp-study/cpp-prime/bin/c2-ex2-25" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiaochen/project/cpp-study/cpp-prime/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 c2-ex2-25"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c2-ex2-25/fast">
+				<Option output="/Users/xiaochen/project/cpp-study/cpp-prime/bin/c2-ex2-25" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiaochen/project/cpp-study/cpp-prime/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 c2-ex2-25/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c2-ex2-18">
+				<Option output="/Users/xiaochen/project/cpp-study/cpp-prime/bin/c2-ex2-18" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiaochen/project/cpp-study/cpp-prime/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 c2-ex2-18"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c2-ex2-18/fast">
+				<Option output="/Users/xiaochen/project/cpp-study/cpp-prime/bin/c2-ex2-18" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiaochen/project/cpp-study/cpp-prime/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 c2-ex2-18/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/xiaochen/project/cpp-study/cpp-prime"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c2-ex2-35">
+				<Option output="/Users/xiaochen/project/cpp-study/cpp-prime/bin/c2-ex2-35" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiaochen/project/cpp-study/cpp-prime/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 c2-ex2-35"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c2-ex2-35/fast">
+				<Option output="/Users/xiaochen/project/cpp-study/cpp-prime/bin/c2-ex2-35" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiaochen/project/cpp-study/cpp-prime/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 c2-ex2-35/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c2-ex2-33">
+				<Option output="/Users/xiaochen/project/cpp-study/cpp-prime/bin/c2-ex2-33" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiaochen/project/cpp-study/cpp-prime/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 c2-ex2-33"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c2-ex2-33/fast">
+				<Option output="/Users/xiaochen/project/cpp-study/cpp-prime/bin/c2-ex2-33" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiaochen/project/cpp-study/cpp-prime/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 c2-ex2-33/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/c2/const.cpp">
+			<Option target="c2-const"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/c2/ex2-18.cpp">
+			<Option target="c2-ex2-18"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/c2/ex2-20.cpp">
+			<Option target="c2-ex2-20"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/c2/ex2-25.cpp">
+			<Option target="c2-ex2-25"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/c2/ex2-33.cpp">
+			<Option target="c2-ex2-33"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/c2/ex2-34.cpp">
+			<Option target="c2-ex2-34"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/c2/ex2-35.cpp">
+			<Option target="c2-ex2-35"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

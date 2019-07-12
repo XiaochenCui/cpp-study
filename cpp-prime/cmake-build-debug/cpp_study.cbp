@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cpp_study"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_study">
+				<Option output="/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug/cpp_study" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0"/>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1"/>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/12"/>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/13"/>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/14"/>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/15"/>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16"/>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/18"/>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/19"/>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/2"/>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/6"/>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/7"/>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/headers"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_study"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_study/fast">
+				<Option output="/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug/cpp_study" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0"/>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1"/>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/12"/>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/13"/>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/14"/>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/15"/>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16"/>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/18"/>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/19"/>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/2"/>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/6"/>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/7"/>
+					<Add directory="/Users/xiaochen/project/cpp-study/cpp-prime/headers"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_study/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xiaochen/project/cpp-study/cpp-prime/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1/Sales_item.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1/add.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1/add_item.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1/add_item2.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1/avg_price.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1/e1-11-prompts.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1/e1-16-sum.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1/e1-20.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1/e1-22.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1/e1-23.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1/e1-9-sum.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1/for_ex.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1/forcount.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1/hello-world.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1/if.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1/item_io.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1/legal.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1/main_only.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1/mysum.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1/occurs.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1/prog1.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1/two-sum.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1/unknown-numbers-of-inputs.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/1/whilecount.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/10/absInt.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/10/accum.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/10/accum4.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/10/avg_price.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/10/bind2.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/10/elimDups.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/10/equal.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/10/equiv-istream-iter.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/10/inserters.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/10/iostream_iter.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/10/lambda.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/10/newcount-size.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/10/ostreamIter2.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/10/rcomma.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/10/rev-iters.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/10/reverse-iter.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/10/reverse.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/10/sortSI.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/10/use-istream-iter.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/10/use_find.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/11/erasemap.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/11/map1.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/11/multimap.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/11/pair.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/11/restricted_count.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/11/setOps.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/11/unorderedWordCount.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/11/wcEx.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/11/word_count.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/11/word_transform.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/12/Foo.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/12/QueryResult.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/12/StrBlob.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/12/TextQuery.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/12/TextQuery.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/12/UP.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/12/allocPtr.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/12/allocSP.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/12/oknew.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/12/querymain.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/12/release.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/12/unique.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/12/useBlob.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/12/usealloc.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/12/usealloc2.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/12/weak.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/13/Folder.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/13/Folder.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/13/FolderMain.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/13/HasPtrUseCount.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/13/HasPtrValueLike.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/13/StrFolder.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/13/StrFolder.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/13/StrFolderMain.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/13/StrVec.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/13/StrVec.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/13/String.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/13/String.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/13/copyNoMove.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/13/moveHP.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/13/serial.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/13/small_SI.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/13/substr.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/13/useStrVec.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/14/Sales_data.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/14/Sales_data.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/14/absInt.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/14/add.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/14/calc.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/14/directcall.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/14/fcnobj.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/14/newcount-size.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/14/readStr.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/15/Basket.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/15/Basket.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/15/Basket_main.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/15/Query.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/15/Query.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/15/Quote.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/15/Quote.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/15/andQueryTest.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/15/and_orQueryTest.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/15/get_print.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/15/sample.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/15/scope.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/15/useQuote.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/15/vecBasket.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/15/virtualsNscope.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/15/wordQueryTest.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/Array.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/Blob.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/DebugDelete.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/SP.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/Sales_data.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/Sales_data.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/Vec.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/Vecmain.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/array-parms4.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/build.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/compare.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/compare.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/compareDef.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/compareSpec.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/debug.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/debug_rep.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/expansion.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/flip.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/multiset.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/overSpec.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/qm.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/special.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/trail-ret.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/typealias.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/useBlob.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/useChcking.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/variadic.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/16/variadic3.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/REerrs.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/badgetc.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/bits.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/ccpgms.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/findbook.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/game.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/getc.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/getput.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/manips.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/manips11.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/no-skipws.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/normalInts.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/phones.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/phonesFinal.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/point.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/prec.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/rand1.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/rand2.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/rand4.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/rand6.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/regex1.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/sci_dec.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/seed.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/seek.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/setw.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/skipws.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/subexpr.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/tuple.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/validatePhones.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/17/zips.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/18/Animal.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/18/Animal.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/18/Animal_virtual_baseVers.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/18/Sales_data.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/18/book.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/18/bookexcept.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/18/class.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/18/ex-over.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/18/inherit.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/18/mi-scope.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/18/over.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/18/over2.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/18/spec.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/18/usingDirective.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/18/virt-inherit.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/19/Screen.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/19/Screen.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/19/TextQuery.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/19/Token.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/19/bitfields.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/19/calc.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/19/dyn_cast.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/19/enum-match.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/19/enum.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/19/memFN-bind.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/19/tok2.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/19/typeid.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/19/useScreen.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/2/Sales_data.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/2/Sales_data.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/2/compounddecls.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/2/convs.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/2/dbl_ptr.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/2/decl-ex.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/2/escape.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/2/inits.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/2/literals.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/2/ref-ex.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/2/scope_levels.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/2/unsigned.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/3/add_using.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/3/arrayScores.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/3/cctype.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/3/char_repl.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/3/cstring_hdr.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/3/getline.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/3/hexify.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/3/multidim.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/3/ptr_traversal2.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/3/square.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/3/strcompare.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/3/string_add.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/3/string_io.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/3/string_io2.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/3/string_size.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/3/string_size2.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/3/string_size3.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/3/vecScores.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/3/vecStrings2.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/3/vecSubs.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/3/vec_decls.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/3/word_echo.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/4/arith-ex.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/4/arraysizeof.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/4/cond.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/4/incr.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/4/int-div.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/4/oofe.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/4/overflow.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/4/prec.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/4/shift-prec.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/4/sizeof_pgm.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/4/unaryOps.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/4/vec_init.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/4/warn_dbltoint.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/5/add_item2.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/5/doWhile.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/5/guess.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/5/ifgrades.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/5/othercnt.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/5/rangefor.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/5/vowels.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/6/LocalMath.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/6/LocalMath.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/6/arrRet.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/6/count-calls.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/6/errMsg_initList.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/6/fact.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/6/fcnptrRet.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/6/good_printmain.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/6/inline_shorter.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/6/mainmath.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/6/mainret.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/6/make_plural.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/6/mk_plural.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/6/printFcns.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/6/ref-fcn.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/6/refparms.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/6/refret-ex.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/6/reset.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/6/stl-arr-fcns.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/6/use_mk_plural.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/6/usefcnptr.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/6/wdebug.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/7/Account.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/7/Account.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/7/Debug.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/7/Debug.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/7/Sales_data.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/7/Sales_data.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/7/Screen.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/7/WindowMgr.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/7/add_item.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/7/avg_price.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/7/useAccount.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/7/useDebug.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/7/useScreen.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/8/add_item.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/8/add_itemV2.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/8/buf.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/8/clearIO.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/8/fileIO.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/8/sstream.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/9/capacity.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/9/erase1.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/9/erase2.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/9/find-str.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/9/find_ops.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/9/refreshIter.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/9/stack.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/9/str_assignOps.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/9/substr.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/9/useConvs.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/GCC_4_7_0/Version_test.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/c1-getting-started/s1-a-simple-cpp-grogram/prog1.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/c1-getting-started/s2-io/hello-world.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/c1-getting-started/s2-io/two-sum.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/c1-getting-started/s3-comments/legal.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/c1-getting-started/s4-flow-of-control/e1-11-prompts.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/c1-getting-started/s4-flow-of-control/e1-16-sum.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/c1-getting-started/s4-flow-of-control/e1-9-sum.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/c1-getting-started/s4-flow-of-control/if.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/c1-getting-started/s4-flow-of-control/unknown-numbers-of-inputs.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/c1-getting-started/s5-classes/item_io.cc">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/c2/ex2-18.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/headers/Sales_item.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="/Users/xiaochen/project/cpp-study/cpp-prime/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
