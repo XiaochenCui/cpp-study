@@ -7,7 +7,7 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 
 file(GLOB SOURCES
         RELATIVE ${CMAKE_SOURCE_DIR}
-        c2/*.cpp)
+        c*/*.cpp)
 foreach (source_name ${SOURCES})
     string(REPLACE ".cpp" "" bin_name ${source_name})
     string(REPLACE "/" "-" bin_name ${bin_name})
