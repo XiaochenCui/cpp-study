@@ -53,3 +53,6 @@ _deps
 *.app
 
 */bin/
+
+cmake-build-debug/
+.DS_Store
