@@ -13,9 +13,18 @@ int main() {
     while (cin >> i){
         v.push_back(i);
     }
-    for (auto i: v) {
-        cout << i << " ";
+    i = 0;
+    int cache;
+    for (auto elem: v) {
+        if (i % 2 == 0)
+            cache = elem;
+        else
+            cout << cache + elem << endl;
+        i++;
     }
-    cout << endl;
+
+    for (i = 0; i < v.size()/2; i++) {
+        cout << v[i] + v[v.size()-i-1] << endl;
+    }
 }
 
