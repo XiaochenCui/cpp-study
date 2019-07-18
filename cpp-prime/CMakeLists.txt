@@ -13,3 +13,5 @@ foreach (source_name ${SOURCES})
     string(REPLACE "/" "-" bin_name ${bin_name})
     add_executable(${bin_name} ${source_name})
 endforeach ()
+
+add_executable(c6-ex6-9 c6/ex6-9/fact.cpp c6/ex6-9/factMain.cpp)
