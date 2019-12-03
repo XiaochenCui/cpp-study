@@ -57,3 +57,5 @@ _deps
 cmake-build-debug/
 .DS_Store
 *.cbp
+
+.vscode
