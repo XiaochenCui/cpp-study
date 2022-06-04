@@ -16,7 +16,7 @@ void receive_pointer_to_pointer(int depth, Foo** foo) {
   if (depth > 3) {
     return;
   }
-  std::cout << "receive_pointer_to_pointer: " << depth << " " << *foo << std::endl;
+  std::cout << "receive_pointer_to_pointer: " << depth << " point to: " << *foo << " pointer address: " << foo << std::endl;
   receive_pointer_to_pointer(depth + 1, foo);
 }
 
